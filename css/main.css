@@ -62,16 +62,16 @@ body, html{
   margin:0px;
   font-family: 'Roboto', sans-serif;
 }
-h1{
-  font-size: 2em;
-  padding:10px;
-  font-weight:bold;
-  color:#000000
+h1 {
+    font-size: 2em;
+    padding: 10px;
+    font-weight: bold;
+    color: #d1d1d1;
 }
-h2{
-  font-size: 1.4em;
-  padding:4px;
-  color: #ffffff
+h2 {
+    font-size: 1.4em;
+    padding: 4px;
+    color: #d1d1d1;
 }
 
 .main-container{
