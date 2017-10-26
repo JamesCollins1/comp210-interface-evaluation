@@ -104,16 +104,16 @@ nav ul{
 nav ul li{
   margin:5px;
 }
-nav ul li a{
-  display:block;
-  width: 90%;
-  height:60px;
-  background-color: #224;
-  color: #3d2e89;
-  line-height: 60px;
-  text-align: center;
-  text-decoration: none;
-}
+    nav ul li a {
+        display: block;
+        width: 90%;
+        height: 60px;
+        background-color: #3d2e89;
+        color: #d1d1d1;
+        line-height: 60px;
+        text-align: center;
+        text-decoration: none;
+    }
 nav ul li a.selected{
   text-decoration: underline;
   background: #224;
